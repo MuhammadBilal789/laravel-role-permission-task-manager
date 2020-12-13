@@ -3,7 +3,7 @@
 A simple role & permission baed task manager application
 
 -   **User Dashboard**
-    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-role-permission-task-manager/blob/master/public/images/dashboard.png)
+    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-role-permission-task-manager/blob/master/public/images/userdashboard.png)
 
 -   **Permission Manager**
     ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-role-permission-task-manager/blob/master/public/images/permission.png)
