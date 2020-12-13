@@ -1,15 +1,15 @@
 # Laravel Role Permission Task Manager
 
-A simple role & permission baed tasl manager application
+A simple role & permission baed task manager application
 
 -   **User Dashboard**
-    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-task-manager/blob/master/public/images/dashboard.png)
+    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-role-permission-task-manager/blob/master/public/images/dashboard.png)
 
 -   **Permission Manager**
-    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-task-manager/blob/master/public/images/permission.png)
+    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-role-permission-task-manager/blob/master/public/images/permission.png)
 
 -   **Edit Permission**
-    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-task-manager/blob/master/public/images/permissonedit.png)
+    ![Task Manager Dashboard](https://github.com/MuhammadBilal789/laravel-role-permission-task-manager/blob/master/public/images/permissionedit.png)
 
 ## How to use
 
