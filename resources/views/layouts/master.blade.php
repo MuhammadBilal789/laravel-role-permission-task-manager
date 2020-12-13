@@ -120,7 +120,7 @@
           </ul>
           @endrole
           <div class="px-6 my-6">
-            <button onclick="location.href='{{ url('https://github.com/MuhammadBilal789/laravel-task-manager target="_blank"' ) }}'"
+            <button onclick="location.href='{{ url('https://github.com/MuhammadBilal789/laravel-role-permission-task-manager target="_blank"' ) }}'"
               class="flex items-center justify-left w-full px-4 py-2 text-sm font-medium leading-5 text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple"
             >
             <svg
