@@ -20,8 +20,8 @@ A simple role & permission based task manager application
 -   Run **php artisan key:generate**
 -   Run **php artisan migrate --seed**
 -   Run **php artisan serve**
--   Run **Admin Credentials admin@admin.com - password**
--   Run **User Credentials user@user.com - password**
+-   **Admin Credentials admin@admin.com - password**
+-   **User Credentials user@user.com - password**
 -   That's it: launch the main URL
 
 ---
